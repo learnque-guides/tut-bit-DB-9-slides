@@ -9,7 +9,7 @@ Design a database which will store the relevant information needed to operate a 
 
 The final result of exersice should contain screenshot of your ERD for database and SQL script that let's for other developer to create database  with all tables from scratch with some example data inserted.
 
-Maske sure that your designed database is suitable to:
+Make sure that your designed database is suitable to:
 
 * List all movies.
 * List all movies running on e.g. 2020-01-01.
