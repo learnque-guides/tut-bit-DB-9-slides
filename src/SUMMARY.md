@@ -12,3 +12,12 @@
 - [Analyzing queries](./analyzing_queries.md)
 - [Analyzing example](./analyzing_example.md)
 - [Batch read, update for speedup](./batch_read_update_for_spead_up.md)
+- [How to create a database with schemas?](./database_create_cookbook.md)
+- [Entity relationship model, diagram](./entity_relationship_model.md)
+- [Why use ER diagrams](./why_use_er_diagrams.md)
+- [ERD Symbols & Notations](./er_sumbols_notations.md)
+- [Components of diagram](./components_of_the_diagram.md)
+- [Cardinality](./cardinality.md)
+- [Example](./example.md)
+- [Exercise 2](./exercise.md)
+
